@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="Manga">
+        <item>Black Clover</item>
+        <item>Boku No Hero Academia</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Fairy Tail</item>
+        <item>K-ON</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Deskripsi</item>
+        <item>Deskripsi</item>
+        <item>Deskripsi</item>
+        <item>Deskripsi</item>
+        <item>Deskripsi</item>
+    </string-array>
+</resources>
